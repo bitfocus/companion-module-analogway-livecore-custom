@@ -1,2 +1,2 @@
 # companion-module-analogway-livecore-custom
-See HELP.md
+See HELP.md and LICENSE
